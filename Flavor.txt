@@ -1,0 +1,4 @@
+Product number 	Amount Of Sugar	 Amount Of Chocolat	Amount Of Milk	Amount Of Fat	Number Of Pieces   Protein	Carbohydrates	DietaryFiber	AmountCoffee
+    108		     10		        29		     15.2		2.1		9	     2.1	    8.7		    7.0		    19.3
+    106		     10.2		28		     15.1		2.0		8	      2		    8.6		    7.1		    19.2
+    107		     10.3		27		      15		2		6	     2.0            8.6		    7.3		    19.1
